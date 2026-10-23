@@ -1,0 +1,18 @@
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Build output
+**/bin/
+**/obj/
+
+# Visual Studio user and workspace files
+.vs/
+*.csproj.user
+*.suo
+
+# IDE and OS files
+.vscode/
+Thumbs.db
+Desktop.ini
